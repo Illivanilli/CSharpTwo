@@ -1,0 +1,14 @@
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\bin\Debug\netcoreapp2.1\ClassTwo.deps.json
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\bin\Debug\netcoreapp2.1\ClassTwo.runtimeconfig.json
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\bin\Debug\netcoreapp2.1\ClassTwo.runtimeconfig.dev.json
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\bin\Debug\netcoreapp2.1\ClassTwo.dll
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\bin\Debug\netcoreapp2.1\ClassTwo.pdb
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.csprojAssemblyReference.cache
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.csproj.CoreCompileInputs.cache
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.RazorAssemblyInfo.cache
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.RazorAssemblyInfo.cs
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.AssemblyInfoInputs.cache
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.AssemblyInfo.cs
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.RazorTargetAssemblyInfo.cache
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.dll
+C:\Users\cpars\source\repos\ClassTwo\ClassTwo\ClassTwo\obj\Debug\netcoreapp2.1\ClassTwo.pdb
